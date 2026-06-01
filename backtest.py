@@ -1,4 +1,5 @@
 import numpy as np
+# DISCLAIMER , some  comments has been added by Ai as my code didnt have much comments and i told the Ai to explain the code , also remove dead commented code
 
 # ALGO TRADING BACKTESTER.
 # tests a moving-average crossover strategy on price data and shows how much
